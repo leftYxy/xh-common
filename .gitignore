@@ -1,0 +1,12 @@
+/.idea
+/vendor/
+composer.lock
+*.cache
+*.log
+yaoxy-d/
+.php-cs-fixer.php
+.phpstorm.meta.php
+auth.json
+watch
+composer.lock
+phpunit.xml
